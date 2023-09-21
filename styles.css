@@ -1,2 +1,25 @@
 
 /* Your CSS Code here. */
+.holder{
+	display : flex ;
+	justify-content : space-evenly ;
+	flex-wrap : wrap ;
+}
+
+#p1{
+	width : 100px;
+	height : 100px ;
+	background-color: blue ;
+}
+
+#p2{
+	width : 100px;
+	height : 100px ;
+	background-color: red ;
+}
+
+#p3{
+	width : 100px;
+	height : 100px ;
+	background-color: black;
+}
